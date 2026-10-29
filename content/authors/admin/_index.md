@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral researcher at University of Helsinki
+role: Postdoctoral researcher 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
