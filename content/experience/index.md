@@ -15,7 +15,26 @@ sections:
         - area: Ph.D. in Social psychology
           institution: University of Helsinki
           summary: |
-            Navigating Prejudice in Virtual Reality: Direct, Indirect, and Secondary Transfer Effects of Positive and Negative Intergroup Contact in VR. Supervisors: Jasinskaja-Lahti, Inga; Jääskeläinen, Iiro; Harjunen, Ville Johannes.
+            Navigating Prejudice in Virtual Reality: Direct, Indirect, and Secondary Transfer Effects of Positive and Negative Intergroup Contact in VR. 
+          button:
+            text: 'Read Doctoral Dissertation'
+            url: 'https://helda.helsinki.fi/server/api/core/bitstreams/6f826174-af07-4039-b1fc-6be58341beff/content'
+        - area: M.Sc., Psychology of community, wellness promotion and social change
+          institution: University of Padua
+        - area: B.Sc., Developmental, personality and interpersonal relationships psychology
+          institution: University of Padua
+    design:
+      is_education_first: true
+      
+        - block: resume-experience
+    content:
+      title: Experience & Education
+      # Inline the education data here
+      education:
+        - area: Ph.D. in Social psychology
+          institution: University of Helsinki
+          summary: |
+            Navigating Prejudice in Virtual Reality: Direct, Indirect, and Secondary Transfer Effects of Positive and Negative Intergroup Contact in VR. 
           button:
             text: 'Read Doctoral Dissertation'
             url: 'https://helda.helsinki.fi/server/api/core/bitstreams/6f826174-af07-4039-b1fc-6be58341beff/content'
